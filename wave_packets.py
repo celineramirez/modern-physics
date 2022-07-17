@@ -1,4 +1,4 @@
-# Create an animated version of the Gaussian wave packet from Step 5.
+# Animated Gaussian wave packet
 def yw(x,t): 
   dlam = 0.58
   lam0 = 10
